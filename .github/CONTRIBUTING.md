@@ -2,7 +2,7 @@
 I really appreciate the contributions you make to this project, before doing so make sure you follow the guidelines.
 
 ## Code of Conduct
-Make sure you read the Code of Conduct(./CODE_OF_CONDUCT.md) before contributing, to keep this project open and inclusive.
+Make sure you read the [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing, to keep this project open and inclusive.
 
 ## Found bugs?
 If you find problems or bugs, you can report them by submitting a new issue on github or you can create a pull request to fix the problem or bugs.
@@ -24,7 +24,7 @@ Before submitting your pull request consider following the following guidelines:
 
 ## Coding rules
 - Code must be tested.
-- Code must follow the [airbnb style guide](https://github.com/airbnb/javascript)
+- Code must follow the [Airbnb Style Guide](https://github.com/airbnb/javascript)
 - Code must be well documented.
 
 ## Commit Message Guidelines

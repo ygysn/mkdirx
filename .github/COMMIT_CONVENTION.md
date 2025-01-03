@@ -52,31 +52,3 @@ Closed bugs should be listed on a separate line in the footer prefixed with "Clo
 
 Or in case of multiple issues: \
 `Closes #123, #245, #992`
-
-
-
-
-
-
-
-
-## Mengsubmit Pull Request
-Sebelum mengsubmit pull request mu pertimbangkan mengikutin paduan :
-- Cari di Github untuk pull reuqest yang terbuka atau telah tertutup yang berkaitan dengan submisi kamu, jika ada jangan membuat pull request baru. Kamu tidak ingin membuat upaya berlebihan.
-- Fork repository ini.
-- Jika kamu telah mengfork repository, buat perubahan di git branch baru.
-- Buat perbaikan atau penambahan fitur, termasuk unit test.
-- Ikutin aturan pengkodean.
-- Commit perubahan mu dan ikutin panduan pesan komit.
-- Push perubahan ke repository Github.
-- Kirim pull request ke repository ini.
-
-
-## Aturan pengkodean
-Proyek ini memiliki beberapa aturan pengkodean :
-- Kode harus telah melakukan test.
-- Kode harus mengikutin panduan [panduan gaya airbnb](https://github.com/airbnb/javascript)
-- Kode harus di dokumentasikan dengan baik.
-
-## Panduan Pesan Komit
-Jika ingin melakukan komit, pastikan agar pesan komit sesuai dengan konvensi pesan komit yang kami gunakan. Baca [Commit Convetion](./COMMIT_CONVENTION.md)
