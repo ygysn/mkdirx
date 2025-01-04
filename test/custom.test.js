@@ -1,5 +1,3 @@
-'use strict'
-
 import assert from 'node:assert';
 import mkdirx from '../index.js';
 

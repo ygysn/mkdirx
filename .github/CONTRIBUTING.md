@@ -24,7 +24,7 @@ Before submitting your pull request consider following the following guidelines:
 
 ## Coding rules
 - Code must be tested.
-- Code must follow the [Airbnb Style Guide](https://github.com/airbnb/javascript)
+- Code must be simple and easy to read.
 - Code must be well documented.
 
 ## Commit Message Guidelines

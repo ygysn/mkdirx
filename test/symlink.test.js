@@ -1,5 +1,3 @@
-'use strict'
-
 import fs from 'node:fs';
 import assert from 'node:assert';
 import crypto from 'node:crypto';
@@ -9,8 +7,8 @@ describe('testing mkdirx.symlink()', () => {
   const baseDir = `.tmp-${crypto.randomBytes(8).toString('hex')}`;
   it(`create a simple symlink`, async () => {
     await mkdirx(baseDir, {
-      'target': mkdirx.dir(),
-      'symlink': mkdirx.symlink('target'),
+      target: mkdirx.dir(),
+      symlink: mkdirx.symlink('target'),
     });
 
     const symlinkStat = fs.lstatSync(`${baseDir}/symlink`);

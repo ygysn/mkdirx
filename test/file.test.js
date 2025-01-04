@@ -1,5 +1,3 @@
-'use strict'
-
 import fs from 'node:fs';
 import assert from 'node:assert';
 import crypto from 'node:crypto';
