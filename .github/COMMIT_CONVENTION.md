@@ -20,10 +20,10 @@ The message header commit contains the type, scope and a short summary. Type and
 - feat: Added new features.
 - fix: Bug fixes
 - docs: Changes only in the documentation
-- style: Changes, without changing the behavior.
-- refactor: Changes that do not aim to add new features or fix bugs.
-- perf: Changes to improve performance
-- test: Adding tests.
+- style: Changes in the code, without changing the behavior.
+- refactor: Changes in code that do not aim to add new features or fix bugs.
+- perf: Changes in code to improve performance
+- test: Changes in tests.
 - build: Changes that affect the build system.
 - ci: Changes in CI.
 
